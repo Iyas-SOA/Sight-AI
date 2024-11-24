@@ -1,1 +1,1 @@
-export const privateKey = ["PK1", "PK2"];
+export const privateKey = ["Private Key 1", "Private Key 2"];
