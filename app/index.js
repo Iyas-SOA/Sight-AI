@@ -11,9 +11,6 @@ async function operation(_0x2b6c37) {
     await _0x5b35c8.getBalance();
     await _0x5b35c8.connectSightAiDapps();
     await _0x5b35c8.getUserInfo(true);
-    if (_0x5b35c8.user.usedReferralCode != _0x5b35c8.something && !_0x5b35c8.address.includes("4K0I6S")) {
-      console.log("You're not using Creator Referal Code, you cannot use this bot :-), Sorry");
-      process.exit();
     }
     if (!Helper.isToday(_0x5b35c8.user.checkInStatus.lastCheckInDate)) {
       await _0x5b35c8.checkIn();
