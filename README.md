@@ -45,7 +45,7 @@
  npm run start
  ```
 
-## Support Me :
+## Support Me
 - Telegram : https://t.me/schoolofairdrop
 - EVM : `0x4B67284e5d2BE6F98c0a773260e3FA046dd23B22`
 - Solana : `51L6bBpb2c4buj4iseohPtsJJ1ynebKi1S1T3FrLTfi2`
