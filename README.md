@@ -16,31 +16,31 @@
 - Auto Play Games
 
 ## Setup & Configure BOT
-1. Clone repo project :
+- Clone repo project :
  ```
  git clone https://github.com/Iyas-SOA/Sight-AI.git
  ```
-2. Choose folder :
+- Choose folder :
  ```
  cd Sight-AI
  ```
-3. Run
+- Run
  ```
  npm install
  ```
-4. Run
+- Run
  ```
  cp accounts/accounts_tmp.js accounts/accounts.js
  ```
-5. Configure your account :
+- Configure your account :
  ```
  nano accounts/account.js
  ```
-6. Configure the bot config :
+- Configure the bot config :
  ```
  nano config/config.js
  ```
-7. to start the app run
+- to start the app run
  ```
  npm run start
  ```
