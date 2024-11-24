@@ -21,7 +21,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Widiskel/sight-ai-bot.git"
+    "url": "git+https://github.com/Iyas-SOA/Sight-AI.git"
   },
   "dependencies": {
     "bip39": "^3.1.0",
