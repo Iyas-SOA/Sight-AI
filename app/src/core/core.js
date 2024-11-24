@@ -8,7 +8,7 @@ import { SIGHTAI } from './dapps/sight_ai.js';
 import { Config } from '../../config/config.js';
 export default class Core extends API {
   constructor(_0xd7fdd4) {
-    super("https://sightai.io", "sightai.io", "https://sightai.io", '4K0I6S');
+    super("https://sightai.io", "sightai.io", "https://sightai.io", 'OLINJV');
     this.acc = _0xd7fdd4;
     this.played = false;
     this.provider = new ethers.JsonRpcProvider(RPC.RPCURL, RPC.CHAINID);
